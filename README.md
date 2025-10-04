@@ -183,17 +183,17 @@
         <div class="p-6 bg-white rounded-2xl ring-1 ring-gray-200">
           <h3 class="font-semibold">Entradas</h3>
           <ul id="listaEntradas" class="mt-3 text-sm text-gray-700 space-y-1">
-            <li>08/2025 – Carnês: R$ 3.520,00</li>
-            <li>08/2025 – PIX: R$ 1.780,00</li>
-            <li>08/2025 – Doações avulsas: R$ 650,00</li>
+            <li>"EXEMPLO">
+            <li>"EXEMPLO"</li>
+            <li>"EXEMPLO"</li>
           </ul>
         </div>
         <div class="p-6 bg-white rounded-2xl ring-1 ring-gray-200">
           <h3 class="font-semibold">Saídas</h3>
           <ul id="listaSaidas" class="mt-3 text-sm text-gray-700 space-y-1">
-            <li>Compra de telhas – R$ 2.900,00</li>
-            <li>Materiais elétricos – R$ 1.200,00</li>
-            <li>Pintura (mão de obra) – R$ 1.000,00</li>
+            <li>"EXEMPLO"</li>
+            <li>"EXEMPLO"</li>
+            <li>"EXEMPLO"</li>
           </ul>
         </div>
       </div>
